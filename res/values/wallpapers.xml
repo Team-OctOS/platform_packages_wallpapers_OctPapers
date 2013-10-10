@@ -18,7 +18,7 @@
     <string-array name="wallpapers" translatable="false">
         <item>wallpaper_dubbsy_octpattern_dark</item>
         <item>wallpaper_dubbsy_octpattern_light</item>
-        <item>wallpaper_nebkat_bokeh</item>
+        <item>wallpaper_hlxanthus_octchain</item>
         <item>wallpaper_beki1984_colorwave</item>
         <item>wallpaper_eklipze_cheshireyellow</item>
         <item>wallpaper_eklipze_notquitemono</item>
@@ -33,7 +33,7 @@
     <string-array name="info" translatable="false">
         <item>Oct Pattern Dark - Dubbsy</item>
         <item>Oct Pattern Light - Dubbsy</item>
-        <item>Bokeh - nebkat</item>
+        <item>Oct Chain - Hlxanthus</item>
         <item>Color Wave - beki1984</item>
         <item>Cheshire Yellow - Eklipze</item>
         <item>Not Quite Mono - Eklipze</item>
