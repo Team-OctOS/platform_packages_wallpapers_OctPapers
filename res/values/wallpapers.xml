@@ -19,29 +19,23 @@
         <item>wallpaper_dubbsy_octpattern_dark</item>
         <item>wallpaper_dubbsy_octpattern_light</item>
         <item>wallpaper_hlxanthus_octchain</item>
-        <item>wallpaper_beki1984_colorwave</item>
-        <item>wallpaper_eklipze_cheshireyellow</item>
-        <item>wallpaper_eklipze_notquitemono</item>
-        <item>wallpaper_eklipze_technicolorstripes</item>
-        <item>wallpaper_th_shadowchess</item>
-        <item>wallpaper_mathewhanley_earlycorn</item>
-        <item>wallpaper_mathewhanley_defensivebutterfly</item>
-        <item>wallpaper_michaelmedina_beachlogs</item>
-        <item>wallpaper_alexanderwislsperger_melbourne</item>
+        <item>wallpaper_treken_dubbsy_pattern</item>
+        <item>wallpaper_hlxanthus_wavy_pink</item>
+        <item>wallpaper_treken_pattern</item>
+        <item>wallpaper_holo_pattern</item>
+        <item>wallpaper_treken_dubbsy_pattern</item>
+        <item>wallpaper_hlxanthus_wavy_dark</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Oct Pattern Dark - Dubbsy</item>
-        <item>Oct Pattern Light - Dubbsy</item>
-        <item>Oct Chain - Hlxanthus</item>
-        <item>Color Wave - beki1984</item>
-        <item>Cheshire Yellow - Eklipze</item>
-        <item>Not Quite Mono - Eklipze</item>
-        <item>Technicolor Stripes - Eklipze</item>
-        <item>Shadow Chess - TH</item>
-        <item>Early Corn - Mathew Hanley</item>
-        <item>Defensive Butterfly - Mathew Hanley</item>
-        <item>Beach Logs - Michael Medina</item>
-        <item>Melbourne - Alexander Wislsperger</item>
+        <item>Oct Pattern Dark</item>
+        <item>Oct Pattern Light</item>
+        <item>Oct Chain</item>
+        <item>Oct Pattern Dubbs</item>
+        <item>Oct Wavy Pink</item>
+        <item>Oct Pattern Trek</item>
+        <item>Oct Pattern Holo</item>
+        <item>Oct TrekDubbs Pattern</item>
+        <item>Oct Wavy Dark</item>
     </string-array>
 </resources>
