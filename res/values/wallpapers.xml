@@ -23,19 +23,19 @@
         <item>wallpaper_hlxanthus_wavy_pink</item>
         <item>wallpaper_treken_pattern</item>
         <item>wallpaper_holo_pattern</item>
-        <item>wallpaper_treken_dubbsy_pattern</item>
+        <item>wallpaper_treken_pattern</item>
         <item>wallpaper_hlxanthus_wavy_dark</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Oct Pattern Dark</item>
-        <item>Oct Pattern Light</item>
-        <item>Oct Chain</item>
-        <item>Oct Pattern Dubbs</item>
-        <item>Oct Wavy Pink</item>
-        <item>Oct Pattern Trek</item>
-        <item>Oct Pattern Holo</item>
-        <item>Oct TrekDubbs Pattern</item>
-        <item>Oct Wavy Dark</item>
+        <item>Oct Pattern Dark - Dubbsy</item>
+        <item>Oct Pattern Light - Dubbsy</item>
+        <item>Oct Chain - hlxanthus</item>
+        <item>Oct Pattern - Treken/Dubbsy</item>
+        <item>Oct Wavy Pink - hlxanthus</item>
+        <item>Oct Pattern - Treken</item>
+        <item>Oct Pattern Holofied - Dubbsy</item>
+        <item>Oct Pattern - Treken</item>
+        <item>Oct Wavy Dark - hlxanthus</item>
     </string-array>
 </resources>
