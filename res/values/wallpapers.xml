@@ -16,26 +16,28 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>wallpaper_dubbsy_octpattern_dark</item>
-        <item>wallpaper_dubbsy_octpattern_light</item>
-        <item>wallpaper_hlxanthus_octchain</item>
-        <item>wallpaper_treken_dubbsy_pattern</item>
-        <item>wallpaper_hlxanthus_wavy_pink</item>
-        <item>wallpaper_treken_pattern</item>
-        <item>wallpaper_holo_pattern</item>
-        <item>wallpaper_treken_pattern</item>
-        <item>wallpaper_hlxanthus_wavy_dark</item>
+        <item>dubbsy_octpattern_dark</item>
+        <item>dubbsy_octpattern_light</item>
+        <item>hlx_octchain</item>
+        <item>treken_red_pattern</item>
+        <item>hlx_pink</item>
+        <item>treken_pattern</item>
+        <item>holo_octchain</item>
+        <item>dubbsy_oct</item>
+        <item>hlx_dark</item>
+		<item>hlx_neon</item>
     </string-array>
 
     <string-array name="info" translatable="false">
         <item>Oct Pattern Dark - Dubbsy</item>
         <item>Oct Pattern Light - Dubbsy</item>
         <item>Oct Chain - hlxanthus</item>
-        <item>Oct Pattern - Treken/Dubbsy</item>
+        <item>Oct Pattern - Treken</item>
         <item>Oct Wavy Pink - hlxanthus</item>
         <item>Oct Pattern - Treken</item>
         <item>Oct Pattern Holofied - Dubbsy</item>
-        <item>Oct Pattern - Treken</item>
+		<item>ASAP Oct - Dubbsy</item>
         <item>Oct Wavy Dark - hlxanthus</item>
+        <item>Oct Wavy Neon - hlxanthus</item>
     </string-array>
 </resources>
