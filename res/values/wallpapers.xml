@@ -26,6 +26,12 @@
         <item>dubbsy_oct</item>
         <item>hlx_dark</item>
 		<item>hlx_neon</item>
+		<item>OctoKatWallpaperCyan</item>
+		<item>OctoKatWallpaperGreen</item>
+		<item>OctoKatWallpaperGrey</item>
+		<item>OctoKatWallpaperPink</item>
+		<item>OctoKatWallpaperPurple</item>
+		<item>OctoKatWallpaperRed</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -39,5 +45,11 @@
 		<item>ASAP Oct - Dubbsy</item>
         <item>Oct Wavy Dark - hlxanthus</item>
         <item>Oct Wavy Neon - hlxanthus</item>
+		<item>OctoKat Cyan - hlxanthus</item>
+		<item>OctoKat Green - hlxanthus</item>
+		<item>OctoKat Grey - hlxanthus</item>
+		<item>OctoKat Pink - hlxanthus</item>
+		<item>OctoKat Purple - hlxanthus</item>
+		<item>OctoKat Red - hlxanthus</item>
     </string-array>
 </resources>
