@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2014 Team-OctOS (Octo-Kat Edition)
+# Copyright (C) 2014 Team-OctOS
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -21,6 +21,6 @@ LOCAL_SRC_FILES := $(call all-subdir-java-files)
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PACKAGE_NAME := OctPapers
+LOCAL_PACKAGE_NAME := OctMPapers
 
 include $(BUILD_PACKAGE)

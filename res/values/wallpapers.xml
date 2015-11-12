@@ -17,78 +17,26 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
-        <item>hlx_octchain</item>
-        <item>treken_red_pattern</item>
-        <item>hlx_pink</item>
-        <item>treken_pattern</item>
-        <item>holo_octchain</item>
-        <item>dubbsy_oct</item>
-        <item>hlx_dark</item>
-	    <item>hlx_neon</item>
-	    <item>hlxdubbs_googly</item>
-	    <item>jason_white</item>
-	    <item>jason_blue</item>
-	    <item>jason_green</item>
-	    <item>jason_red</item>
-	    <item>jason_yellow</item>
-	    <item>jason_orange</item>
-	    <item>jason_red</item>
-	    <item>octokatwallpapercyan</item>
-	    <item>octokatwallpapergreen</item>
-	    <item>octokatwallpapergrey</item>
-	    <item>octokatwallpaperpink</item>
-	    <item>octokatwallpaperpurple</item>
-	    <item>octokatwallpaperred</item>
-        <item>dubbsy_octpattern_dark</item>
-        <item>dubbsy_octpattern_light</item>
-	    <item>jason_invertred1</item>
-	    <item>jason_invertred2</item>
-	    <item>jason_invertred3</item>
-	    <item>jason_invertred4</item>
-	    <item>jason_invertblue1</item>
-	    <item>jason_invertblue2</item>
-	    <item>jason_invertblue3</item>
-	    <item>jason_invertyellow</item>
-	    <item>jason_invertpink</item>
-	    <item>jason_invertorange</item>
-	    <item>jason_invertgreen</item>
+        <item>customworx_marsh</item>
+        <item>customworkx_tentacles_1</item>
+        <item>customworkx_tentacles_2</item>
+        <item>customworkx_tentacles_3</item>
+        <item>customworkx_octos_blue</item>
+        <item>customworkx_octos_gray</item>
+        <item>customworkx_octos_orange</item>
+        <item>customworkx_octos_white</item>
+        <item>customworkx_octos_inverted</item>
     </string-array>
 
     <string-array name="info" translatable="false">
-        <item>Oct Chain - hlxanthus</item>
-        <item>Oct Pattern - Treken</item>
-        <item>Oct Wavy Pink - hlxanthus</item>
-        <item>Oct Pattern - Treken</item>
-        <item>Oct Pattern Holofied - Dubbsy</item>
-	    <item>ASAP Oct - Dubbsy</item>
-        <item>Oct Wavy Dark - hlxanthus</item>
-        <item>Oct Wavy Neon - hlxanthus</item>
-	    <item>Googly Eyed Beast - Dubbsy</item>
-	    <item>OctOS White - Jason G</item>
-	    <item>OctOS Blue - Jason G</item>
-	    <item>OctOS Green - Jason G</item>
-	    <item>OctOS Red - Jason G</item>
-	    <item>OctOS Yellow - Jason G</item>
-	    <item>OctOS Orange - Jason G</item>
-	    <item>OctOS Red - Jason G</item>
-	    <item>OctoKat Cyan - hlxanthus</item>
-	    <item>OctoKat Green - hlxanthus</item>
-	    <item>OctoKat Grey - hlxanthus</item>
-	    <item>OctoKat Pink - hlxanthus</item>
-	    <item>OctoKat Purple - hlxanthus</item>
-	    <item>OctoKat Red - hlxanthus</item>
-        <item>Oct Pattern Dark - Dubbsy</item>
-        <item>Oct Pattern Light - Dubbsy</item>
-	    <item>Oct-Inverted Red 1 - Jason G</item>
-	    <item>Oct-Inverted Red 2 - Jason G</item>
-	    <item>Oct-Inverted Red 3 - Jason G</item>
-	    <item>Oct-Inverted Red 4 - Jason G</item>
-	    <item>Oct-Inverted Blue 1 - Jason G</item>
-	    <item>Oct-Inverted Blue 2 - Jason G</item>
-	    <item>Oct-Inverted Blue 3 - Jason G</item>
-	    <item>Oct-Inverted Yellow - Jason G</item>
-	    <item>Oct-Inverted Pink - Jason G</item>
-	    <item>Oct-Inverted Orange - Jason G</item>
-	    <item>Oct-Inverted Green - Jason G</item>
+        <item>Marshmallow - Customworx</item>
+        <item>Tentacles 1 - Customworx</item>
+        <item>Tentacles 2 - Customworx</item>
+        <item>Tentacles 3 - Customworx</item>
+        <item>OctOS Blue - Customworx</item>
+        <item>OctOS Gray - Customworx</item>
+        <item>OctOS Orange - Customworx</item>
+        <item>OctOS White - Customworx</item>
+        <item>OctOS Inverted - Customworx</item>
     </string-array>
 </resources>
